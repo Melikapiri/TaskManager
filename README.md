@@ -1,7 +1,8 @@
 # TaskManager
 A task management application built with React using a component-based architecture. It enables users to add, edit, delete, and track tasks efficiently. The app features form validation to ensure proper input, and editing is handled elegantly via a modal dialog. React Router DOM provides smooth client-side navigation, while tasks are persistently stored in LocalStorage to maintain data across sessions. The UI is styled with Tailwind CSS, making it fully responsive and visually clean across various screen sizes. Additionally, users can seamlessly change task statuses by clicking buttons like "To Do," "In Progress," and "Done," allowing easy movement of tasks between different states.
 
-
+## API Usage
+This project fetches the initial list of ToDo tasks from the JSON Placeholder API to provide sample data.
 
 ## Technologies Used
 
