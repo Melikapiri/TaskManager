@@ -10,6 +10,8 @@ This project fetches the initial list of ToDo tasks from the JSON Placeholder AP
 - **React Router DOM** — Client-side routing
 - **Tailwind CSS** — Utility-first CSS framework for styling and responsiveness
 - **LocalStorage** — Persistent task storage on the client side
+- **JSONPlaceholder API** — For fetching initial sample tasks data
+
 
 ## Features
 
